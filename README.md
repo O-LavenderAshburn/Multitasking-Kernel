@@ -1,5 +1,5 @@
 # Multitasking-Kernel
-IMPORTANT. if you are here to plagirse my UoW COMPX-203 assigment, id encourage you to use this as a resource to learn not to steal 
+IMPORTANT. if you are here to plagirse my UoW COMPX-203 assigment,<br> id encourage you to use this as a resource to learn not and  not just to steal 
 <br>
 
 Multitasking kernel assignment University of Waikato 2022\
